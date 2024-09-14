@@ -2,7 +2,7 @@
 
 - 🔭 Cursando atualmente Lógica de Programção
 - 🌱 Hoje estudo HTML e css 
-- 💬 email:rhuannkelvem30@gmail.com
+- 💬 rhuannkelvem30@gmail.com
 - 👝 Amo aprender coisas novas
 - 😄 ele/dele
 
