@@ -1,7 +1,7 @@
 ## Olá, Me chamo Rhuann Kelven, Tenho 16 anos e amo lógica de programação. 
 
 - 🔭 Cursando atualmente Lógica de Programção
-- 🌱 Hoje estudo HTML e css 
+- 🌱 Hoje estudo HTML e css, Python. 
 - 💬 rhuannkelvem30@gmail.com
 - 👝 Cursando 2º do Encino Médio 
 - 😄 ele/dele
