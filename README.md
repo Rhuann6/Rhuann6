@@ -3,8 +3,8 @@
 - 🔭 Cursando atualmente Lógica de Programação na INSTITUIÇÂO SENAI.
 - 🌱 Hoje estudo Python, HTML e css. 
 - 💬 rhuannkelvem30@gmail.com
-- 👝 Cursando 2º do Encino Médio na escola GONÇALVES DIAS.
-- 😄 ele/dele.
+- 👝 Cursando 2º do Encino Médio na escola GONÇALVES DIAS
+- 😄 ele/dele
 
 <div style="display: inline_block"><br>
   <h1>O que pretendo estudar e me dedicar =]</h1>
