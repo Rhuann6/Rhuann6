@@ -7,7 +7,7 @@
 - 😄 ele/dele
 
 <div style="display: inline_block"><br>
-  <h1>O que pretendo estudar e me dedicar =]</h1>
+  <h1>O que estou estudando e me dedicando. =]</h1>
   <img align="center" alt="Rhuann-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rhuann-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Rhuann-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
