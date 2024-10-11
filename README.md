@@ -1,4 +1,4 @@
-## Olá, Me chamo Rhuann Kelven, tenho 16 anos e pretendo seguir nessa área que pretendo estudar 
+## Olá, Me chamo Rhuann Kelven, tenho 16 anos e pretendo seguir nessa área que amo tanto.
 
 - 🔭 Cursando atualmente Lógica de Programação na INSTITUIÇÂO SENAI
 - 🌱 Hoje estudo Python, HTML e css
