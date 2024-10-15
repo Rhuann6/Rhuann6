@@ -1,6 +1,6 @@
 ## Olá, Me chamo Rhuann Kelven, tenho 16 anos e pretendo seguir nessa área que amo tanto.
 
-- 🔭 Cursando atualmente Lógica de Programação na INSTITUIÇÂO SENAI
+- 🔭 Cursando atualmente Lógica de Programação na INSTITUIÇÂO SENAI 400hr
 - 🌱 Hoje estudo Python, HTML e css
 - 💬 rhuannkelvem30@gmail.com
 - 👝 Cursando 2º do Encino Médio na escola GONÇALVES DIAS
